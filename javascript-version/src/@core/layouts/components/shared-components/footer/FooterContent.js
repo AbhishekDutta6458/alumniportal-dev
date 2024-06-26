@@ -24,7 +24,7 @@ const FooterContent = () => {
         <Box sx={{ display: 'flex', flexWrap: 'wrap', alignItems: 'center', '& :not(:last-child)': { mr: 4 } }}>
           {/*<Link
             target='_blank'
-            href='https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free/blob/main/LICENSE'
+            href=''
           >
             MIT License
       </Link>*/}
@@ -33,13 +33,13 @@ const FooterContent = () => {
     </Link>*/}
           {/*<Link
             target='_blank'
-            href='https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free/blob/main/README.md'
+            href=''
           >
             Documentation
   </Link>*/}
           {/*<Link
             target='_blank'
-            href='https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free/issues'
+            href=''
           >
             Support
 </Link>*/}
